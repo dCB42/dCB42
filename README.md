@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dimitri Carpentie--Bernussou
+# Dimitri Carpentier--Bernussou
 ### 🎨 Creative Web Developer
 
 *Crafting elegant digital experiences with modern technologies*
