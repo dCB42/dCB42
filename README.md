@@ -52,8 +52,8 @@ A comprehensive e-commerce solution designed specifically for artisans and small
 
 **Let's Connect:**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=7c3aed)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=7c3aed)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=7c3aed)](mailto:dcb42.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=7c3aed)](https://www.linkedin.com/in/dimitri-carpentier-bernussou-a8772b241)
 
 ---
 
