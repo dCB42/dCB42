@@ -40,7 +40,7 @@ A comprehensive e-commerce solution designed specifically for artisans and small
 
 <div align="center">
 
-<--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dCB42&show_icons=true&theme=default&title_color=7c3aed&text_color=6b7280&icon_color=8b5cf6&bg_color=ffffff&border_color=e5e7eb)-->
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dCB42&show_icons=true&theme=default&title_color=7c3aed&text_color=6b7280&icon_color=8b5cf6&bg_color=ffffff&border_color=e5e7eb)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dCB42&layout=compact&theme=default&title_color=7c3aed&text_color=6b7280&bg_color=ffffff&border_color=e5e7eb)
 
